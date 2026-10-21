@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/eit-memory-control-pulse-timing-explainer/
 
+Repository: https://github.com/mizcausevic-dev/eit-memory-control-pulse-timing-explainer
+
 ## What this is
 
 An interactive anatomy plate for EIT Memory Control-Pulse Timing. Play, scrub, or jump the five stages. The same frame always draws the same picture.
